@@ -1,0 +1,19 @@
+{
+  "tabInfo": {
+    "tabs": [
+      {
+        "id": "9974f240-66d2-4433-a1ae-ac733f4644d3",
+        "type": "NEW"
+      },
+      {
+        "id": "630fe209-6e46-4871-8d5d-6a8c6a275d84",
+        "type": "RELEASE_NOTES"
+      }
+    ],
+    "selectedTabId": "9974f240-66d2-4433-a1ae-ac733f4644d3"
+  },
+  "profileIcon": "gravatar",
+  "profileName": "Matteo",
+  "userEmail": "andrioo.mat@gmail.com",
+  "userName": "Matteo"
+}

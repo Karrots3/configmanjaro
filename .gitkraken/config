@@ -1,0 +1,48 @@
+{
+  "lastUpgradeScriptRun": "v6.5.0",
+  "lastVersion": "7.3.1",
+  "lastReleaseNotesDisplayed": "7.3.1",
+  "appId": "8605dbf90fc163540a3fc5e5492064a2068855c7",
+  "windowSettings": {
+    "x": 961,
+    "y": 1,
+    "width": 958,
+    "height": 1057,
+    "fullScreen": false,
+    "maximized": false
+  },
+  "registration": {
+    "email": "andrioo.mat@gmail.com",
+    "status": "activated",
+    "loginType": "github",
+    "providerToken": {
+      "access_token": "daf4a42bc02b5f3b51f2dd6ecf55852128efbc76",
+      "token_type": "bearer",
+      "scope": "admin:public_key,read:org,repo,user:email,workflow",
+      "expires_at": null
+    },
+    "date": "2020-09-10T19:11:21.465Z",
+    "EULA": {
+      "version": "1.5.0",
+      "status": "agree_verified"
+    }
+  },
+  "userId": "75eadfbb-9390-4791-a2c9-2606152d4ae9",
+  "licensedFeatures": [],
+  "userFeatures": [
+    {
+      "betaFeaturesEnabled": false,
+      "name": "gitkraken"
+    },
+    {
+      "betaFeaturesEnabled": false,
+      "name": "glo"
+    },
+    {
+      "betaFeaturesEnabled": false,
+      "name": "timelines"
+    }
+  ],
+  "keepGitConfigInSyncWithProfile": false,
+  "hasSeenNewUserOnboarding": true
+}

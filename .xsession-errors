@@ -1,0 +1,63 @@
+/bin/sh: clipit: command not found
+/bin/sh: ff-theme-util: command not found
+
+(nitrogen:934): Gtk-WARNING **: 20:36:25.694: Unable to locate theme engine in module_path: "murrine",
+
+(nitrogen:934): Gtk-WARNING **: 20:36:25.694: Unable to locate theme engine in module_path: "murrine",
+i3status: trying to auto-detect output_format setting
+
+(nitrogen:934): Gtk-WARNING **: 20:36:25.701: Unable to locate theme engine in module_path: "murrine",
+i3status: auto-detected "i3bar"
+conky: desktop window (1a2) is root window
+conky: window type - override
+conky: drawing to created window (0x1600001)
+conky: drawing to double buffer
+conky: forked to background, pid is 995
+
+conky: desktop window (1a2) is root window
+conky: window type - override
+conky: drawing to created window (0x1c00001)
+conky: drawing to double buffer
+conky: forked to background, pid is 999
+
+
+(nitrogen:934): Gtk-WARNING **: 20:36:25.865: Unable to locate theme engine in module_path: "murrine",
+
+(nitrogen:934): Gtk-WARNING **: 20:36:25.866: Unable to locate theme engine in module_path: "murrine",
+
+(nitrogen:934): Gtk-WARNING **: 20:36:25.866: Unable to locate theme engine in module_path: "murrine",
+
+(pamac-tray:937): Gdk-CRITICAL **: 20:36:25.931: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
+[ 09/10/2020 20:36:26.899 c2_parse_grp ERROR ] Pattern "class_g ?= 'i3-frame'_GTK_FRAME_EXTENTS@:c" pos 21: Unexpected expression.
+** Message: 20:36:56.012: updates_checker.vala:65: check updates
+** Message: 20:36:56.544: updates_checker.vala:94: 0 updates found
+i3status: exiting due to signal.
+/bin/sh: ff-theme-util: command not found
+i3status: trying to auto-detect output_format setting
+i3status: auto-detected "i3bar"
+ConfigBase::load: Unable to open /home/matteo/.config/terminator/config ([Errno 2] No such file or directory: '/home/matteo/.config/terminator/config')
+<window.Window object at 0x7fb726537d80 (terminatorlib+window+Window at 0x561390c062a0)> is not in registered window list
+ConfigBase::load: Unable to open /home/matteo/.config/terminator/config ([Errno 2] No such file or directory: '/home/matteo/.config/terminator/config')
+ConfigBase::load: Unable to open /home/matteo/.config/terminator/config ([Errno 2] No such file or directory: '/home/matteo/.config/terminator/config')
+/usr/bin/dmenu_recency: line 60: -s: command not found
+** Message: 21:09:37.600: updates_checker.vala:65: check updates
+** Message: 21:09:37.895: updates_checker.vala:94: 0 updates found
+ConfigBase::load: Unable to open /home/matteo/.config/terminator/config ([Errno 2] No such file or directory: '/home/matteo/.config/terminator/config')
+ConfigBase::load: Unable to open /home/matteo/.config/terminator/config ([Errno 2] No such file or directory: '/home/matteo/.config/terminator/config')
+
+(pcmanfm:8069): Gtk-WARNING **: 21:17:30.261: Unable to locate theme engine in module_path: "murrine",
+
+(pcmanfm:8069): Gtk-WARNING **: 21:17:30.261: Unable to locate theme engine in module_path: "murrine",
+
+(pcmanfm:8069): Gtk-WARNING **: 21:17:30.262: Unable to locate theme engine in module_path: "murrine",
+ConfigBase::load: Unable to open /home/matteo/.config/terminator/config ([Errno 2] No such file or directory: '/home/matteo/.config/terminator/config')
+
+(pcmanfm:8392): Gtk-WARNING **: 21:22:00.453: Unable to locate theme engine in module_path: "murrine",
+
+(pcmanfm:8392): Gtk-WARNING **: 21:22:00.453: Unable to locate theme engine in module_path: "murrine",
+
+(pcmanfm:8392): Gtk-WARNING **: 21:22:00.454: Unable to locate theme engine in module_path: "murrine",
+** Message: 21:36:26.102: updates_checker.vala:65: check updates
+** Message: 21:36:26.341: updates_checker.vala:94: 0 updates found
+** Message: 22:36:27.107: updates_checker.vala:65: check updates
+** Message: 22:36:27.344: updates_checker.vala:94: 0 updates found

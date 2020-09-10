@@ -1,0 +1,70 @@
+/bin/sh: ff-theme-util: command not found
+
+(clipit:933): Gtk-WARNING **: 07:29:28.244: Unable to locate theme engine in module_path: "murrine",
+
+(clipit:933): Gtk-WARNING **: 07:29:28.244: Unable to locate theme engine in module_path: "murrine",
+
+(clipit:933): Gtk-WARNING **: 07:29:28.251: Unable to locate theme engine in module_path: "murrine",
+
+(nitrogen:928): Gtk-WARNING **: 07:29:28.256: Unable to locate theme engine in module_path: "murrine",
+
+(nitrogen:928): Gtk-WARNING **: 07:29:28.256: Unable to locate theme engine in module_path: "murrine",
+
+** (clipit:933): WARNING **: 07:29:28.257: Binding '<Ctrl><Alt>H' failed!
+
+
+(nitrogen:928): Gtk-WARNING **: 07:29:28.257: Unable to locate theme engine in module_path: "murrine",
+conky: desktop window (1a2) is root window
+conky: window type - override
+conky: drawing to created window (0x1800001)
+conky: drawing to double buffer
+conky: forked to background, pid is 987
+i3status: trying to auto-detect output_format setting
+i3status: auto-detected "i3bar"
+
+conky: desktop window (1a2) is root window
+conky: window type - override
+conky: drawing to created window (0x1e00001)
+conky: drawing to double buffer
+conky: forked to background, pid is 998
+
+
+(nitrogen:928): Gtk-WARNING **: 07:29:28.395: Unable to locate theme engine in module_path: "murrine",
+
+(nitrogen:928): Gtk-WARNING **: 07:29:28.395: Unable to locate theme engine in module_path: "murrine",
+
+(nitrogen:928): Gtk-WARNING **: 07:29:28.396: Unable to locate theme engine in module_path: "murrine",
+
+(pamac-tray:931): Gdk-CRITICAL **: 07:29:28.535: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
+[ 09/10/2020 07:29:29.425 c2_parse_grp ERROR ] Pattern "class_g ?= 'i3-frame'_GTK_FRAME_EXTENTS@:c" pos 21: Unexpected expression.
+/usr/bin/dmenu_recency: line 60: -s: command not found
+
+(nitrogen:1059): Gtk-WARNING **: 07:29:35.718: Unable to locate theme engine in module_path: "murrine",
+
+(nitrogen:1059): Gtk-WARNING **: 07:29:35.718: Unable to locate theme engine in module_path: "murrine",
+
+(nitrogen:1059): Gtk-WARNING **: 07:29:35.719: Unable to locate theme engine in module_path: "murrine",
+
+** (terminator:1089): WARNING **: 07:29:49.897: Binding '<Control><Alt>a' failed!
+** Message: 07:29:58.995: updates_checker.vala:65: check updates
+** Message: 07:29:59.589: updates_checker.vala:94: 0 updates found
+** Message: 07:30:38.318: updates_checker.vala:65: check updates
+** Message: 07:30:38.572: updates_checker.vala:94: 0 updates found
+ConfigBase::load: Unable to open /home/matteo/.config/terminator/config ([Errno 2] No such file or directory: '/home/matteo/.config/terminator/config')
+Unable to bind hide_window key, another instance/window has it.
+<window.Window object at 0x7f4bf93d7dc0 (terminatorlib+window+Window at 0x562f6f8002a0)> is not in registered window list
+
+** (terminator:1648): WARNING **: 07:32:37.958: Binding '<Control><Alt>a' failed!
+/usr/bin/dmenu_recency: line 60: -s: command not found
+unable to connect to the rxvt-unicode daemon: Connection refused
+** Message: 07:39:35.670: updates_checker.vala:65: check updates
+** Message: 07:39:35.921: updates_checker.vala:94: 0 updates found
+ConfigBase::load: Unable to open /home/matteo/.config/terminator/config ([Errno 2] No such file or directory: '/home/matteo/.config/terminator/config')
+Unable to bind hide_window key, another instance/window has it.
+<window.Window object at 0x7f6700113ec0 (terminatorlib+window+Window at 0x5603d22a82a0)> is not in registered window list
+
+** (terminator:3513): WARNING **: 07:51:14.819: Binding '<Control><Alt>a' failed!
+i3status: exiting due to signal.
+conky: received SIGHUP, SIGINT, or SIGTERM to terminate. bye!
+conky: X Error: Display 563e3ecb7210
+

@@ -1,0 +1,8 @@
+[2020-09-10T19:09:43.885Z] Detecting Git and Git LFS: started
+[2020-09-10T19:09:44.737Z] Detected Git: 2.28.0
+[2020-09-10T19:09:44.739Z] Did not detect Git LFS
+[2020-09-10T19:13:05.332Z] Detecting Git and Git LFS: started
+[2020-09-10T19:13:05.791Z] Detected Git: 2.28.0
+[2020-09-10T19:13:05.866Z] Did not detect Git LFS
+[2020-09-10T19:13:30.758Z] Add user profile Matteo: started.
+[2020-09-10T19:13:30.814Z] Add user profile Matteo: finished. gk-log://duration?t=56
